@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Actividad2/static/css/main.e0ca3cfc.css",
-    "main.js": "/Actividad2/static/js/main.59c138ca.js",
+    "main.js": "/Actividad2/static/js/main.e23ca0a7.js",
     "static/js/787.78ce65ad.chunk.js": "/Actividad2/static/js/787.78ce65ad.chunk.js",
     "static/media/SeoulNamsan-CB.ttf.eot": "/Actividad2/static/media/SeoulNamsan-CB.ttf.d47337d8c5ac08e1e68a.eot",
     "static/media/SeoulNamsan-CB.ttf.woff": "/Actividad2/static/media/SeoulNamsan-CB.ttf.4cab396b1f43b24c8693.woff",
@@ -11,11 +11,11 @@
     "static/media/SeoulNamsan-CB.ttf.svg": "/Actividad2/static/media/SeoulNamsan-CB.ttf.4384c6d99f36e688fc7f.svg",
     "index.html": "/Actividad2/index.html",
     "main.e0ca3cfc.css.map": "/Actividad2/static/css/main.e0ca3cfc.css.map",
-    "main.59c138ca.js.map": "/Actividad2/static/js/main.59c138ca.js.map",
+    "main.e23ca0a7.js.map": "/Actividad2/static/js/main.e23ca0a7.js.map",
     "787.78ce65ad.chunk.js.map": "/Actividad2/static/js/787.78ce65ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0ca3cfc.css",
-    "static/js/main.59c138ca.js"
+    "static/js/main.e23ca0a7.js"
   ]
 }
